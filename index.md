@@ -7,6 +7,9 @@ author_profile: true
 title: "Bienvenue"
 ---
 
-Voici mon blog GitHub pour présenter un peu qui je suis. Mon travail, mon CV, mes projets personnels mais aussi mes lectures.
+Voici mon blog GitHub pour présenter un peu qui je suis:
+- Mon travail,
+- mon CV, 
+- mes projets personnels mais aussi mes lectures.
 
 Bonne visite, et n'hésitez pas à m'envoyer vos commentaires!

@@ -23,5 +23,5 @@ Depuis 2017, je suis employé par Télécom Santé renommée récemment en [Hopp
 
 # [Lectures][link-readings]
 
-[link-projects]: projects/projects/
-[link-readings]: readings/readings/
+[link-projects]: ../projects/projects/
+[link-readings]: ../readings/readings/
