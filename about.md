@@ -19,9 +19,12 @@ En parallèle et à titre personnel j’ai continué l’électronique et les ex
 
 Depuis 2017, je suis employé par Télécom Santé renommée récemment en [Hoppen](https://www.hoppen.care/).
 
+# [CV][link-resume]
+
 # [Projets][link-projects]
 
 # [Lectures][link-readings]
 
+[link-resume]: ../resume/
 [link-projects]: ../projects/projects/
 [link-readings]: ../readings/readings/
