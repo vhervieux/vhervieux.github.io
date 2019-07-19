@@ -1,11 +1,9 @@
 ---
 layout: default
 author_profile: true
-title: About
+title: "A propos"
 permalink: /about/
 ---
-
-# A propos (about.md)
 
 Sorti d’école d’ingénieur INSA avec un diplôme orienté éléctronique et télécommunications, le contexte aidant, mon expérience professionnelle est principalement dans le développment bas niveau avec différents niveaux d’intervention: architecture, développement, intégration, support.
 
