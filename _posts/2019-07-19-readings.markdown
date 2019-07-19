@@ -4,13 +4,13 @@ title:  "Lectures"
 date:   2019-07-19 14:57:49 +0200
 categories: readings
 ---
-Ci dessous mes lectures que j'aurais envie de vous conseiller.
+Ci-dessous mes lectures que j'aurais envie de vous conseiller.
 
 - Hacking - the Art of Exploitation (Jon Erickson)
   Une très bonne entrée en matière dans le Hacking, avec des exemples. Ce qui permet aussi d'apprendre à faire du code robuste, et l'intérêt de mettre à jour son système. 
 
 - Linux embarqué (Pierre Ficheux)
-  Une référence en français pour qui veut se lancer dans le monde de Linux embarqué.
+  Une référence en français pour qui veut se lancer dans le monde de Linux embarqué. Attention plusieurs éditions sont parues, faire attention à lire la dernière qui est la plus complète.
 
 - Click Here to Kill Everybody; (Bruce Schneier)
   Livre moins technique, que je conseillerai aussi aux non développeurs. Loin d'être alarmiste, ce livre explique pourquoi le modèle des IoT actuel est fragile, et les solutions que gouvernements et entreprises devront mettre en place pour permettre d'améliorer la sécurité informatique.
