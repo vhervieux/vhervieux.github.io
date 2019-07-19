@@ -1,3 +1,12 @@
+# Run locally
+
+'''
+bundle install
+bundle exec jekyll serve
+'''
+
+Site will be available locally at http://127.0.0.1:4000
+
 # Minimal Mistakes remote theme starter
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
