@@ -116,7 +116,6 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Ingénieur Electronique et systèmes de communication."
   location         : "Rennes, Bretagne, France"
-  email            : "vincent.hervieux@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
