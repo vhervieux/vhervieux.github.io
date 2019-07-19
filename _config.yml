@@ -114,7 +114,7 @@ anonymize_ip         : # true, false (default)
 author:
   name             : "Vincent Hervieux"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ingénieur Electronique et systèmes de communication."
+  bio              : "Développeur Linux, bidouilleur éléctronique"
   location         : "Rennes, Bretagne, France"
   links:
     - label: "Email"
