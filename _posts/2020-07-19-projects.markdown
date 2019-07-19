@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Projects"
 date:   2019-07-19 16:17:19 +0200
 categories: projects

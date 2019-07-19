@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Lectures"
 date:   2019-07-19 14:57:49 +0200
 categories: readings
