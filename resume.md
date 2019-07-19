@@ -63,7 +63,7 @@ En parallèle et à titre personnel j’ai continué l’electronique et les exp
 - Portage de l’installeur legacy Bash en Ansible
 - Développement d’un service de cache de VOD (Docker et NodeJS)
 
-**Env. Technique: Développement C/NodeJS/Shell/Ansible, Docker, git**
+>**Env. Technique:** ```Développement C/NodeJS/Shell/Ansible, Docker, git```
 
 ### Envivio-Ericsson via Conserto - Développeur C++, intégrateur
 
@@ -74,7 +74,7 @@ En parallèle et à titre personnel j’ai continué l’electronique et les exp
 - Intégration des composantes de la GUI unifiée (django et RabbitMQ).
 - Étude de la solution de licences Safenet (utilisée par Ericsson)
 
-**Env. Technique: Développement/intégration C++, Shell, Processeur x86_64, SVN**
+>**Env. Technique:** ```Développement/intégration C++, Shell, Processeur x86_64, SVN```
 
 ### DGA-MI via Sogeti High Tech - Développeur C++/Java
 
@@ -82,7 +82,7 @@ En parallèle et à titre personnel j’ai continué l’electronique et les exp
 
 Etude de portage d'une application d'étude de propagations (Java + JNI Windows XP sur Windows 7 64 bits).
 
-**Env. Technique:  Développement C++/Java sous Windows (pas glob) Processeur x86_64, SVN**
+>**Env. Technique:**  ```Développement C++/Java sous Windows (pas glob) Processeur x86_64, SVN```
 
 ### BSH via Sogeti High Tech - Développeur C++/Qt
 
@@ -90,7 +90,7 @@ Etude de portage d'une application d'étude de propagations (Java + JNI Windows 
 
 Conception du logiciel d’automatisation des pesées dans un entrepôt de BSH (Bosch Siemens Home appliances Group)
 
-**Env. Technique: Développement, C++, QT, Processeur x86_64, SVN**
+>**Env. Technique:** ```Développement, C++, QT, Processeur x86_64, SVN```
 
 ### SAGEMCOM via Sogeti High Tech - Développeur C
 
@@ -125,7 +125,7 @@ Correction de bugs produit
   - Réalisation de tests unitaires.
   - Support client sur site Orange.
 
-**Env. Technique: Développement, C, C++, GNU/Linux embarqué,  Buildroot, Processeur x86, SVN, Bugzilla**
+>**Env. Technique:** ```Développement, C, C++, GNU/Linux embarqué,  Buildroot, Processeur x86, SVN, Bugzilla```
 
 ### REALWEB - Développeur C++, Pig/Hadoop
 
@@ -158,7 +158,7 @@ Maintenance, correction de bugs produit
   - Développement des correctifs en C/C++.
   - Rédaction et réalisation de tests fonctionnels sur serveur de builds/tests Hudson.
 
-**Env. Technique: Développement C/C++, Pig/Hadoop, Linux x86_64, lib Boost, FCGI, Hudson (Jenkins) SVN, Jira**
+>**Env. Technique:** ```Développement C/C++, Pig/Hadoop, Linux x86_64, lib Boost, FCGI, Hudson (Jenkins) SVN, Jira```
 
 ### ISIS-MPP via Aptus, Développement C/C++
 
@@ -174,7 +174,7 @@ Développement en C d’un driver Kernel et de son API de carte MIL-STD-1553
   - Carte PCI avec transferts DMA pour récupération des données.
   - Intégration sur le banc de test de l’A350.
 
-**Env. Technique: Développement C/C++, Freescale PowerQuicc, Linux x86_64, GCC SVN, Bugzilla**
+>**Env. Technique:** ```Développement C/C++, Freescale PowerQuicc, Linux x86_64, GCC SVN, Bugzilla```
 
 ### MOTOROLA - Développement C/C++
 
@@ -204,5 +204,4 @@ Correction de bugs produit
   - Investigation des conditions d’erreurs via DDD, ou analyseur logique.
   - Développement C de la correction sur RTXOS, cible Freescale starcore140.
 
-**Env. Technique: Développement C/C++, Perl, Python, Freescale, ARM9, ARM11, Clearcase, DDTS**
-
+>**Env. Technique:** ```Développement C/C++, Perl, Python, Freescale, ARM9, ARM11, Clearcase, DDTS```

@@ -5,15 +5,15 @@ categories: projects
 ---
 Ci-dessous mes différents projets personnels.
 
-Arduino Cibi display, est un montage à base d'Arduino lisant la table de fréquence depuis la PLL du poste, pour l'afficher sur un petit écran OLED
+Arduino Cibi display, est un montage à base d'Arduino lisant la table de fréquence depuis la PLL du poste, pour l'afficher sur un petit écran OLED 0.96"
 
 [https://gitlab.com/croutor/arduino-cibi-display](https://gitlab.com/croutor/arduino-cibi-display)
 
-Arduino Cibi VFO, est un autre montage à base d'Arduino + générateur d'hoarloge si5351, plus complexe cette fois, remplaçant les oscillateurs à quartz du poste et l'affichage.
+Arduino Cibi VFO, est un autre montage à base d'Arduino + générateur d'horloges si5351, plus complexe cette fois, car remplaçant le selecteur de fréquence, les oscillateurs à quartz du poste ainsi que l'affichage par un OLED 0.96".
 
 [https://gitlab.com/croutor/arduino-cibi-vfo](https://gitlab.com/croutor/arduino-cibi-vfo)
 
-QPicoscope est un programme en QT pour tirer parti des oscilloscopes USB de Picotech (il utilise les librairies de Picotech):
+QPicoscope est un programme en QT pour tirer parti des oscilloscopes USB de Picotech sous Linux (il utilise les librairies de Picotech):
 
 [https://github.com/croutor/qpicoscope](https://github.com/croutor/qpicoscope)
 
