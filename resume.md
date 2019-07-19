@@ -5,12 +5,18 @@ title: "Curriculum Vitae"
 permalink: /resume/
 ---
 
-# Vincent HERVIEUX - Ingénieur Electronique et systèmes de Communication
+# Ingénieur Electronique et systèmes de Communication
 
 ## Profil
 
-Sorti d’école d’ingénieur avec un diplôme orienté éléctronique et télécommunications,  le contexte aidant, mon expérience professionnelle est principalement dans le développment bas niveau avec différents niveaux d’intervention : architecture, développement, intégration, support. En parallèle et à titre personnel j’ai continué l’electronique et les expériences radio.
+Sorti d’école d’ingénieur avec un diplôme orienté éléctronique et télécommunications,  le contexte aidant, mon expérience professionnelle est principalement dans le développment bas niveau avec différents niveaux d’intervention : 
+
+architecture, développement, intégration, support. 
+
+En parallèle et à titre personnel j’ai continué l’electronique et les expériences radio.
+
 [https://gitlab.com/croutor](https://gitlab.com/croutor)
+
 [https://github.com/croutor](https://github.com/croutor)
 
 ## EXPERIENCES SIGNIFICATIVES
