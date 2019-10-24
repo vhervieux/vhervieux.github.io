@@ -13,6 +13,10 @@ Arduino Cibi VFO, est un autre montage à base d'Arduino + générateur d'horlog
 
 [https://gitlab.com/croutor/arduino-cibi-vfo](https://gitlab.com/croutor/arduino-cibi-vfo)
 
+Adafruit_GFX dummy display, est un programme permettant la création de graphismes Arduino Adafruit_GFX sans HW.
+
+[https://github.com/croutor/Adafruit_GFX_dummy_display](https://github.com/croutor/Adafruit_GFX_dummy_display)
+
 QPicoscope est un programme en QT pour tirer parti des oscilloscopes USB de Picotech sous Linux (il utilise les librairies de Picotech):
 
 [https://github.com/croutor/qpicoscope](https://github.com/croutor/qpicoscope)
