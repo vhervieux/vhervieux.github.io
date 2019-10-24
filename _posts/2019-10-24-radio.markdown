@@ -36,18 +36,18 @@ Memento Radioamateur.
 
 * Classes d'Emission
 
-| Première lettre: Modulation                                           |
--------------------------------------------------------------------------
-| A : Modulation d'amplitude, double bande latérale, porteuse normale   |
-| B : Modulation d'amplitude, bandes latérales indépendantes, porteuse normale   |
-| C : Modulation d'amplitude, bande latérale résiduelle                 |
-| F : Modulation de fréquence                                           |
-| G : Modulation de phase                                               |
-| J : Modulation d'amplitude, bande latérale unique, porteuse supprimée |
-| R : Modulation d'amplitude, bande latérale unique, porteuse réduite   |
+| Première lettre: Modulation                                                  |
+|------------------------------------------------------------------------------|
+| A : Modulation d'amplitude, double bande latérale, porteuse normale          |
+| B : Modulation d'amplitude, bandes latérales indépendantes, porteuse normale |
+| C : Modulation d'amplitude, bande latérale résiduelle                        |
+| F : Modulation de fréquence                                                  |
+| G : Modulation de phase                                                      |
+| J : Modulation d'amplitude, bande latérale unique, porteuse supprimée        |
+| R : Modulation d'amplitude, bande latérale unique, porteuse réduite          |
 
 | Chiffre: Signal modulant                                  |
--------------------------------------------------------------
+|-----------------------------------------------------------|
 | 1 : Signal numérique sans emploi d'une porteuse modulante |
 | 2 : Signal numéruqye avec emploi d'une porteuse modulante |
 | 3 : Signal analogique                                     |
@@ -57,7 +57,7 @@ Memento Radioamateur.
 
 
 | Deuxième lettre: Information transmise  |
--------------------------------------------
+|-----------------------------------------|
 | A : Télégraphie à réception auditive    |
 | B : Télégraphie à réception automatique |
 | C : Fac-similé                          |
