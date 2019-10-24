@@ -5,7 +5,7 @@ categories: projects
 ---
 Memento Radioamateur.
 
-* Alphabet phonétique international
+# Alphabet phonétique international
 
 |A|Alpha|
 |B|Bravo|
@@ -34,7 +34,7 @@ Memento Radioamateur.
 |Y|Yankee|
 |Z|Zulu|
 
-* Classes d'Emission
+# Classes d'Emission
 
 | Première lettre: Modulation                                                  |
 |------------------------------------------------------------------------------|
@@ -65,27 +65,36 @@ Memento Radioamateur.
 | E : Téléphonie                          |
 | F : Télévision                          |
 
-* Classes de Puissance
+# Classes de Puissance
 
 TODO
 
-* ROS, TOS, TR
+# ROS, TOS, TR
 
-transformation ROS > TOS : TOS = ROS -1 / ROS + 1 
+## transformation ROS > TOS : 
+```
+TOS = ROS -1 / ROS + 1 
+```
 Exemple:
 Un ROS de 3 donne un TOS de 0.5
 ``` 
 3-1 / 3+1 = 2 / 4 = 1/2
 ```
 
-transformation TOS > taux de puissance réfléchie : TR = TOS²
+## transformation TOS > taux de puissance réfléchie :
+```
+TR = TOS²
+```
 Exemple:
 Un TOS de 0.5 donne un taux de puissance réfléchie de 0.25:
 ```
  (1/2)² = 1/4 ; 
 ```
 
+## puissance réfléchie
+```
 puissance réfléchie = Puissance émise x taux de puissance réfléchie
+```
 Exemple:
 Une puissance de 4 watts émise, avec un taux de puissance réfléchie de 0.25, donne 1W réfléchi:
 ```
