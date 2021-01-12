@@ -21,10 +21,6 @@ QPicoscope est un programme en QT pour tirer parti des oscilloscopes USB de Pico
 
 [https://github.com/croutor/qpicoscope](https://github.com/croutor/qpicoscope)
 
-Un petit radio réveil en pyGTK:
-
-[https://github.com/croutor/alarmclockpygtk](https://github.com/croutor/alarmclockpygtk)
-
 Une voiture presque opensource tant sa mécanique ne cache rien, la Citroën 2CV! La restauration de ma 2CV:
 
 [http://lesaventuresdepinpinen2cv.blogspot.fr](http://lesaventuresdepinpinen2cv.blogspot.fr)
