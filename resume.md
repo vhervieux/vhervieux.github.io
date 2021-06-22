@@ -50,14 +50,31 @@ En parallèle et à titre personnel j’ai continué l’électronique et les ex
 
 ## EXPERIENCES DETAILLEES
 
+### VeoNum/Broadpeak - Développeur C++
+
+*Cesson-Sévigné - Janvier 2021 à aujourd'hui*
+
+- Developpement en C/C++ de nouvelle fonctionnalités sur le produit BKM100.
+- Aide au support niveau 3.
+
+>**Env. Technique:** ```Développement/intégration C++, Shell, Processeur x86_64, SVN```
+
+### CHU de Rennes - "Chef de projets" téléphonie
+
+*Rennes - Janvier 2020 à décembre 2020*
+
+- support aux usagers.
+
+>**Env. Technique:** ```Alcatel-Lucent Omnivista 8770 (OXE)```
+
 ### Télécom Santé/Hoppen - Responsable HW
 
-*Cesson-Sévigné - Juillet 2017 à aujourd’hui (2 ans)*
+*Cesson-Sévigné - Juillet 2017 à décembre 2019 (2 ans)*
 
-- Adaptation de la solution sur les nouveaux matériels. (Configurations, drivers)
+- Adaptation de la solution sur les nouveaux matériels (Configurations, drivers).
 - Suivi de la fabrication de cartes spécifiques.
-- Portage de l’installeur legacy Bash en Ansible
-- Développement d’un service de cache de VOD (Docker et NodeJS)
+- Portage de l’installeur legacy Bash en Ansible.
+- Développement d’un service de cache de VOD (Docker et NodeJS).
 
 >**Env. Technique:** ```Développement C/NodeJS/Shell/Ansible, Docker, git```
 
@@ -65,10 +82,10 @@ En parallèle et à titre personnel j’ai continué l’électronique et les ex
 
 *Rennes - Juin 2015 à Juillet 2017 (18 mois)* 
 
-- Étude de la solution de licences Reprise
+- Étude de la solution de licences Reprise.
 - Architecture et développement de la solution Reprise sur le logiciel d'encodage vidéo « Muse ».
 - Intégration des composantes de la GUI unifiée (django et RabbitMQ).
-- Étude de la solution de licences Safenet (utilisée par Ericsson)
+- Étude de la solution de licences Safenet (utilisée par Ericsson).
 
 >**Env. Technique:** ```Développement/intégration C++, Shell, Processeur x86_64, SVN```
 
