@@ -1,8 +1,7 @@
 ---
-title:  "Radio"
-date:   2021-06-22 23:47:00 +0200
+title:  "Radio memento"
 categories: Radio
-permalink: /pages/memento-radio.html
+permalink: /pages/radio-memento.html
 ---
 Memento Radioamateur.
 
@@ -143,3 +142,4 @@ Une puissance de 4 watts émise, avec un taux de puissance réfléchie de 0.25, 
 ```
 4 W x (1/4) = 1 W
 ```
+
