@@ -2,6 +2,7 @@
 title:  "Radio"
 date:   2021-06-22 23:47:00 +0200
 categories: Radio
+permalink: /pages/memento-radio.html
 ---
 Memento Radioamateur.
 
