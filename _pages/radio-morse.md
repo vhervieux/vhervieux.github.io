@@ -26,7 +26,7 @@ permalink: /pages/radio-morse.html
 |E|.| Eh! |
 |F|. . _ .|Farandole|
 |G|_ _ .|Gondole|
-|H|. . . .|Hors-bord hors d'eau|
+|H|. . . .|Happy Hippie|
 |I|. .| Ici |
 |J|. _ _ _|Jean-Claude JOJO|
 |K|_ . _|Kottabos|
@@ -35,14 +35,14 @@ permalink: /pages/radio-morse.html
 |N|_ .|Nautic|
 |O|_ _ _|Opodo|
 |P|. _ _ .|Pénologie|
-|Q|_ _ . _||
-|R|. _ .| Revolu|
+|Q|_ _ . _|Quoi qu'on est haut|
+|R|. _ .| Révolu|
 |S|. . .| Si si si|
 |T|_ | Trop|
 |U|. . _|Ultra long|
 |V|. . . _|Vif Vibrato|
 |W|. _ _|Wagon long|
-|X|_ . . _||
+|X|_ . . _|XOR exclu OR|
 |Y|_ . _ _|Youpi yoyo|
 |Z|_ _ . .|Zorro est là|
 
