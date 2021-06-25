@@ -17,7 +17,7 @@ J'ai acheté le kit avec la plupart des composants CMS déjà soudés. Il rester
 
 Une fois le kit reçu, il faut avouer que ce n'est pas de suite gagné pour le mettre en route, car:
 
-- La documentation d'assemblage en ligne date un peu, heuremsement le forum auquel vous êtes inscrit lors de l'achat du kit: [https://groups.io/g/mcHF](https://groups.io/g/mcHF) est très actif. Il faut aussi regarder la vidéo d'OM0ET sur l'assemblage du mcHF, très instructive, sauf pour la self RC8 où il ne faut qu'un tour, et pour les pont power meter/SWR où j'ai utilisé le bout de câble coaxial fourni.
+- La documentation d'assemblage en ligne date un peu, heureusement le forum auquel vous êtes inscrit lors de l'achat du kit: [https://groups.io/g/mcHF](https://groups.io/g/mcHF) est très actif. Il faut aussi regarder la vidéo d'OM0ET sur l'assemblage du mcHF, très instructive, que j'ai suivi de très près sauf pour la self RC8 où il ne faut qu'un tour, pour les ponts power meter/SWR où j'ai utilisé le bout de câble coaxial fourni, et pour l'écran, où je n'ai pas limé les headers.
 
 - il faut également un analyseur de réseau vectoriel pour mettre au point les filtres passe-bas à bobiner soi même. J'ai pour ma part acheté un [NanoVNA](https://nanovna.com/?page_id=21), et je ne regrette pas! Je ne vois pas comment on peut faire sans, sachant que simplement jouer sur l'écartement des spires d'une seule bobine fait varier de plusieurs centaines de kHZ la fréquence de coupure. Avec trois bobine, par filtre, ça fait plus d'un MHz de variation. 
 
