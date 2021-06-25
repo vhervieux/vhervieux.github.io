@@ -18,31 +18,32 @@ permalink: /pages/radio-morse.html
 |9|_ _ _ _ .|
 |0|_ _ _ _ _|
 
-|A|. _|
-|B|_ . . .|
-|C|_ . _ .|
-|D|_ . . |
-|E|.|
-|F|. . _ .|
-|G|_ _ .|
-|H|. . . .|
-|I|. .|
-|J|. _ _ _|
-|K|_ . _|
-|L|. _ . .|
-|M|_ _|
-|N|_ .|
-|O|_ _ _|
-|P|. _ _ .|
-|Q|_ _ . _|
-|R|. _ .|
-|S|. . .|
-|T|_ |
-|U|. . _|
-|V|. . . _|
-|W|. _ _|
-|X|_ . . _|
-|Y|_ . _ _|
-|Z|_ _ . .|
+|?|Di Dah|Mnémotechnique|
+|A|. _| Allo |
+|B|_ . . .|Bobinage|
+|C|_ . _ .| Coca-Cola |
+|D|_ . . | Docile |
+|E|.| Eh! |
+|F|. . _ .|Farandole|
+|G|_ _ .|Gondole|
+|H|. . . .|Hors-bord hors d'eau|
+|I|. .| Ici |
+|J|. _ _ _|Jean-Claude JOJO|
+|K|_ . _|Kottabos|
+|L|. _ . .|Limonade|
+|M|_ _|Momo|
+|N|_ .|Nautic|
+|O|_ _ _|Opodo|
+|P|. _ _ .|Pénologie|
+|Q|_ _ . _||
+|R|. _ .| Revolu|
+|S|. . .| Si si si|
+|T|_ | Trop|
+|U|. . _|Ultra long|
+|V|. . . _|Vif Vibrato|
+|W|. _ _|Wagon long|
+|X|_ . . _||
+|Y|_ . _ _|Youpi yoyo|
+|Z|_ _ . .|Zorro est là|
 
 Un podcast de K6RAU pour s'entrainer: [https://www.podomatic.com/podcasts/k6rau](https://www.podomatic.com/podcasts/k6rau)
