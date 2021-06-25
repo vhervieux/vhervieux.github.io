@@ -45,4 +45,4 @@ permalink: /pages/radio-morse.html
 |Y|_.__|
 |Z|__..|
 
-Un podcast de K6RAU pour s'entrainer: (https://www.podomatic.com/podcasts/k6rau)
+Un podcast de K6RAU pour s'entrainer: [https://www.podomatic.com/podcasts/k6rau](https://www.podomatic.com/podcasts/k6rau)
